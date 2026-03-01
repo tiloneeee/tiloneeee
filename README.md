@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Tilo</h1>
-<h3 align="center">💻 Fullstack Developer | 🎓 Final-Year Computing Student at University of Greenwich</h3>
+<h3 align="center">💻 Backend Developer</h3>
 
 <p align="center">
   <a href="mailto:th.loc1106@gmail.com"><img src="https://img.shields.io/badge/Email-tilo-blue?style=for-the-badge&logo=gmail" /></a>
@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About Me
-- 🎯 Passionate about creating **scalable fullstack applications**
+- 🎯 Passionate about creating **scalable Backend applications**
 - 🌱 Currently exploring **cloud deployment & DevOps tools**
 - 💬 Love collaborating and solving real-world problems through code
 - 📍 Based in **Ho Chi Minh City, Vietnam**
