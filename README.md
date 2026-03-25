@@ -69,4 +69,13 @@ Built using **Next.js**, **NestJS**, and **PostgreSQL**.
 
 ---
 
+![tiloneeee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiloneeee&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+
+---
+
+![tiloneeee's Stats](https://github-readme-stats.vercel.app/api?username=tiloneeee&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+
+---
+
+
 <p align="center">⭐ "Code with purpose, learn with passion, and build with impact." ⭐</p>
